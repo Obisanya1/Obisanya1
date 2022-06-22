@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Daniel 
-- 👀 I’m interested in Frontend Development and collaborating with other developers to build highly scalable and functional web applications.
+- 👀 I’m interested in Frontend Development projects and collaboration with other developers to build highly scalable and functional web applications.
 - 🌱 I’m currently building REACT projects.
 - 💞️ I’m looking to collaborate on frontend development React projects.
 - 📫 Reach me @ ifeoluwadaniel25@gmail.com
